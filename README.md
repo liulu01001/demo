@@ -1,2 +1,2 @@
-# demo
-测试的代码
+# sring-boot-mail
+邮件发送的代码
